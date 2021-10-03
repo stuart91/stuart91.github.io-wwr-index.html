@@ -1,1 +1,13 @@
 # stuart91.github.io-wwr-index.html
+![camping](https://user-images.githubusercontent.com/91073895/135737362-abc8ea4c-abfe-4e5c-981a-100345856b43.jpg)
+![facebook](https://user-images.githubusercontent.com/91073895/135737364-cd855824-93c1-4ce7-9e6a-562c2466b89c.png)
+![fire_icon](https://user-images.githubusercontent.com/91073895/135737365-04e20783-554d-4b72-8ebf-30356ce9cb9d.png)
+![hero](https://user-images.githubusercontent.com/91073895/135737366-d62a7aa6-45c7-4dcb-b4cf-0a5e1f621efb.png)
+![instagram](https://user-images.githubusercontent.com/91073895/135737367-8bdbed53-90af-48cf-ac64-10da934251a5.png)
+![logo](https://user-images.githubusercontent.com/91073895/135737368-9d045241-fa11-4d15-a8dd-b5ba68b56244.png)
+![mountains](https://user-images.githubusercontent.com/91073895/135737369-5f401106-5baa-47dd-8801-147145645183.jpg)
+![oars](https://user-images.githubusercontent.com/91073895/135737370-d1f8fddb-df2d-4b3c-889f-653a5d85e851.png)
+![rapids](https://user-images.githubusercontent.com/91073895/135737371-f4375ca3-7b70-45af-9f7c-12258fee30c3.jpg)
+![river_icon](https://user-images.githubusercontent.com/91073895/135737372-9ca0a497-dffd-41cc-b23e-a1ba6f6e42d6.png)
+![rivers](https://user-images.githubusercontent.com/91073895/135737373-c615023d-897d-4d4d-9845-f323eeec9728.jpg)
+![twitter](https://user-images.githubusercontent.com/91073895/135737374-2f362b12-94d7-4588-985f-4a631641f301.png)
